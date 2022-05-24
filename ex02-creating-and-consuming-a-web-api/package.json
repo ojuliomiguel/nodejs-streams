@@ -1,0 +1,7 @@
+{
+  "name": "ex02-creating-and-consuming-a-web-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT"
+}
